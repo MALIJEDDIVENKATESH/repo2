@@ -9,4 +9,7 @@ int main()
         cout<<"c++";
 
     }
+
+    cout<<"done with for loops";
+    
 }
